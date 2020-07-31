@@ -46,7 +46,7 @@ hunter_add_version(
     URL
     "https://github.com/sowson/boost/archive/hunter-1.66.0-macOS.tar.gz"
     SHA1
-    79d17b8fab1b7f300868ebff70e3d441154c3460
+    8ec987ddf4b5e1bb264631eba5ccc5c4f3652ee3
 )
 
 hunter_add_version(
